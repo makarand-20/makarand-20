@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @makarand-20
-- 👀 I’m interested in Web-Development, Applications-Development, and Data Structures and Algorithms
-- 🌱 I’m currently learning B-tech Degree In Information Technology
+- 👋 Hi, I’m Makarand Khiste
+- 👀 I’m interested in : Web-Development, Applications-Development, and Data Structures and Algorithms
+- 🌱 I’m currently learning : B-tech Degree In Information Technology
 - 📫 How to reach me : makarand.code@gmail.com
 
 <!---
