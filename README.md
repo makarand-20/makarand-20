@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Makarand Khiste
-- 👀 I’m interested in : Web-Development, Applications-Development, Data Structures and Algorithms
-- 🌱 I’m currently learning : B-tech Degree In Information Technology
-- 📫 How to reach me : makarand.code@gmail.com
+👋 Hi, I’m Makarand Khiste
+
+👀 I’m interested in : Web-Dev, App-Dev, Data Structures, and Algorithms
+
+🌱 I’m currently learning : B-tech Degree In Information Technology, and MERN Stack
+
+🔭 I’m currently working on Something Intresting.
+
+👯 I’m looking to collaborate for Dev Projects
+
+💬 Ask me about anything, Except Maths 😅
+
+📫 How to reach me : makarand.code@gmail.com
 
 <!---
 makarand-20/makarand-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
