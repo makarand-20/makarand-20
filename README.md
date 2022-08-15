@@ -10,7 +10,7 @@
 
 💬 Ask me about anything, Except Maths 😅
 
-📫 How to reach me : makarand.code@gmail.com
+📫 How to reach me : My mail id : makarand.code@gmail.com
 
 <!---
 makarand-20/makarand-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
