@@ -8,8 +8,6 @@
 
 👯 I’m looking to collaborate for Dev Projects
 
-💬 Ask me about anything, Except Maths 😅
-
 📫 How to reach me : My mail id : makarand.code@gmail.com
 
 <!---
