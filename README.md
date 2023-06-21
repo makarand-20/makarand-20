@@ -1,15 +1,79 @@
-<h1 align="center">Hi 👋, I'm Makarand Khiste</h1>
-<h3 align="center">A passionate full stack developer and an app developer from India</h3>
+<h2 align="center" > Hi👋, I'm Makarand </h2>
+<div align="center">
+  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+</div>
+<div id="badges" >
+<!--   <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/> -->
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAkash-Tandale001&countColor=%2337d67a" alt=""/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makarand-20&label=Profile%20views&color=0e75b6&style=flat" alt="makarand-20" /> </p>
+## About me:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makarand-20" alt="makarand-20" /></a> </p>&nbsp;
+- :telescope: I'm currently Learning Full Stack Development
+- :mailbox: Contact me at **makarand.code@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## :toolbox: My Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makarand-20&show_icons=true&locale=en&layout=compact" alt="makarand-20" /></p>
+<a href="https://www.java.com/en/" target="_blank"> ![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+<a href="https://www.python.org/" target="_blank"> ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=green)</a>
+<a href="https://www.w3schools.com/c/" target="_blank"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
+<a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="https://getbootstrap.com/" target="_blank"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
+<a href="https://www.javascript.com/" target="_blank"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
+<a href="https://nodejs.org/en/" target="_blank"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
+<a href="https://www.mongodb.com/" target="_blank"> ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="https://www.reactjs.org/" target="_blank"> ![ReactJs](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
+<a href="https://www.spring.io/" target="_blank"> ![SpringBoot](https://img.shields.io/badge/springboot-339933?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://www.hibernate.org/" target="_blank"> ![Hibernate](https://img.shields.io/badge/hibernate-white?style=for-the-badge&logo=hibernate&logoColor=brown)</a>
+<a href="https://www.thymeleaf.org/" target="_blank"> ![Thymeleaf](https://img.shields.io/badge/thymeleaf-339933?style=for-the-badge&logo=thymeleaf&logoColor=white)</a>
+<a href="https://www.mysql.com/" target="_blank"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
+<a href="https://www.prisma.io/" target="_blank"> ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
+<a href="https://git-scm.com/" target="_blank"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
+<a href="https://www.linux.org/" target="_blank"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
+<a href="https://www.docker.com/" target="_blank"> ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=black)</a>
+<a href="https://kubernetes.io/" target="_blank"> ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=black)</a>
+<a href="https://kubernetes.io/" target="_blank"> ![Terraform](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=terraform&logoColor=purple)</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makarand-20&show_icons=true&locale=en" alt="makarand-20" /></p>
+## 💻: Coding Platform
+<a href="https://leetcode.com/makarand_20/" target="_blank"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
+<a href="https://www.codechef.com/users/makarand_20" target="_blank"> ![CodeChef](https://img.shields.io/badge/Codechef-F05032?style=for-the-badge&logo=codechef&logoColor=white)</a>
+<a href="https://auth.geeksforgeeks.org/user/makarand_20/" target="_blank"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933)</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makarand-20&" alt="makarand-20" /></p>
+## :incoming_envelope: Reach Me
+
+<a href="mailto:makarand.code@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/makarand-khiste/" target="_blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<table  align=center>
+  <tr>
+    <td align=center>
+     <a href="https://github.com/makarand-20">
+    <img align="center" height="150px" alt="stats1" src="https://github-readme-stats-akash-tandale001.vercel.app/api/?username=Akash-Tandale001&theme=dark&show_icons=true" />
+  </a>
+    </td>
+    
+  <td align=center> 
+    <a href="https://github.com/makarand-20/">
+    <img align="center" height="150px" alt="stats2" src="https://github-readme-stats-akash-tandale001.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&theme=dark"/>
+  </a>
+    </td>
+   
+  </tr>  
+   
+  
+</table>
+<table align=center>
+  <tr>
+     <td align=center> 
+    <a href="https://github.com/makarand-20">
+      <img align="center" height="150px" alt="stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Tandale001&layout=compact&theme=dark" alt="Akash-Tandale001" />
+  </a>
+        </td>
+  </tr>
+  </table>
+<p></p>
