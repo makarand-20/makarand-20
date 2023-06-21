@@ -53,13 +53,13 @@
   <tr>
     <td align=center>
      <a href="https://github.com/makarand-20">
-    <img align="center" height="150px" alt="stats1" src="https://github-readme-stats-akash-tandale001.vercel.app/api/?username=Akash-Tandale001&theme=dark&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makarand-20&show_icons=true&layout=compact&locale=en&theme=dark" alt="makarand-20" />
   </a>
     </td>
     
   <td align=center> 
     <a href="https://github.com/makarand-20/">
-    <img align="center" height="150px" alt="stats2" src="https://github-readme-stats-akash-tandale001.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&theme=dark"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=makarand-20&show_icons=true&locale=en&theme=dark" alt="makarand-20" />
   </a>
     </td>
    
@@ -71,7 +71,7 @@
   <tr>
      <td align=center> 
     <a href="https://github.com/makarand-20">
-      <img align="center" height="150px" alt="stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Tandale001&layout=compact&theme=dark" alt="Akash-Tandale001" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makarand-20&layout=compact&theme=dark" alt="makarand-20" />
   </a>
         </td>
   </tr>
