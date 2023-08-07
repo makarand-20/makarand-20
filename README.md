@@ -76,7 +76,7 @@
         </td>
   </tr>
   </table>
-<p></p>
+<p></p><br/>
 
-### Snake eating my repos
+### Snake eating my repos 🥹
 <img alt="github-snake" src="https://github.com/makarand-20/makarand-20/blob/output/github-contribution-grid-snake-dark.svg" />
