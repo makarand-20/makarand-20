@@ -77,5 +77,3 @@
   </tr>
   </table>
 <p></p>
-
-![snake gif](https://github.com/makarand-20/makarand-20/blob/output/github-contribution-grid-snake.gif)
